@@ -6,6 +6,6 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "package_info_plus_ohos": "file:../har/package_info_plus_ohos.har"
+    "package_info_plus_ohos": "file:..\\har\\package_info_plus_ohos.har"
   }
 }
